@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **PyTorch, Tensorflow,Computer Vision, Deep Learning, NLP**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kristen-pereira-846673214/**
+- 📫 How to reach me  : <a href="https://www.linkedin.com/in/kristen-pereira-846673214/">Linkedin</a> 
 
-- ⚡ Fun fact **I like to run really long distances**
+- ⚡ Fun fact : **I like to run really long distances**
 
 
 
